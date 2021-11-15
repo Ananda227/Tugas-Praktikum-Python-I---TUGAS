@@ -1,6 +1,6 @@
 # Tugas-Praktikum-Python-I---TUGAS
 
-**1. Universitas Teknologi Komputer** 
+**1. Universitas Komputer Indonesia** 
 
 ![Screenshot (469)](https://user-images.githubusercontent.com/93022913/141763265-b60463fe-7912-40a9-a1d5-fe8a408637c7.png)
 
@@ -44,7 +44,13 @@
 
 ![Screenshot (487)](https://user-images.githubusercontent.com/93022913/141786060-67a359e7-af90-4e70-81bd-57997a82bdf9.png)
 
+**8. Pengolahan Uang**
 
+![Screenshot (490)](https://user-images.githubusercontent.com/93022913/141790474-9286a1b6-c01f-4445-9eb4-9f24cf8b2c66.png)
+
+**Output : **
+
+![Screenshot (489)](https://user-images.githubusercontent.com/93022913/141790536-961fcd1b-ec25-4b78-b130-c77d290e6a6a.png)
 
 
 
